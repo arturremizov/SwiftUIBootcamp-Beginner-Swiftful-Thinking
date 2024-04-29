@@ -81,6 +81,7 @@
 		AFB8B75128E235CE008160AD /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFB8B75028E235CE008160AD /* ProfileView.swift */; };
 		AFBA9DDA28E1D9AD00F83FD0 /* IntroView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFBA9DD928E1D9AD00F83FD0 /* IntroView.swift */; };
 		AFBA9DDC28E1DC3400F83FD0 /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFBA9DDB28E1DC3400F83FD0 /* OnboardingView.swift */; };
+		AFE2E9602BDFF15F004B583D /* NativePopoverBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFE2E95F2BDFF15F004B583D /* NativePopoverBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -159,6 +160,7 @@
 		AFB8B75028E235CE008160AD /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
 		AFBA9DD928E1D9AD00F83FD0 /* IntroView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntroView.swift; sourceTree = "<group>"; };
 		AFBA9DDB28E1DC3400F83FD0 /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
+		AFE2E95F2BDFF15F004B583D /* NativePopoverBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NativePopoverBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -261,6 +263,7 @@
 				AF21D2CD2AA8C6B700151C65 /* GroupBootcamp.swift */,
 				AF21D2CF2AA8C81A00151C65 /* AnimationUpdatedBootcamp.swift */,
 				AF21D2D12AA8CBFC00151C65 /* MenuBootcamp.swift */,
+				AFE2E95F2BDFF15F004B583D /* NativePopoverBootcamp.swift */,
 				AF1D728628D659AA0016C585 /* Assets.xcassets */,
 				AF1D728828D659AA0016C585 /* Preview Content */,
 			);
@@ -369,6 +372,7 @@
 				AF81E19028E0849A0088D87C /* ModelBootcamp.swift in Sources */,
 				AF590BE628D7ABBA009E561C /* PaddingAndSpacerBootcamp.swift in Sources */,
 				AF43563428D66D680019CD3C /* ColorsBootcamp.swift in Sources */,
+				AFE2E9602BDFF15F004B583D /* NativePopoverBootcamp.swift in Sources */,
 				AF6FBFC228D9F0F500468E22 /* ExtractSubviewsBootcamp.swift in Sources */,
 				AF343F5028DBA56900417442 /* ListBootcamp.swift in Sources */,
 				AF5A145F28E0CAC20007067C /* EnvironmentObjectBootcamp.swift in Sources */,
