@@ -83,6 +83,7 @@
 		AFB8B75128E235CE008160AD /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFB8B75028E235CE008160AD /* ProfileView.swift */; };
 		AFBA9DDA28E1D9AD00F83FD0 /* IntroView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFBA9DD928E1D9AD00F83FD0 /* IntroView.swift */; };
 		AFBA9DDC28E1DC3400F83FD0 /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFBA9DDB28E1DC3400F83FD0 /* OnboardingView.swift */; };
+		AFE256362BE5344600257EA6 /* NavigationSplitViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFE256352BE5344600257EA6 /* NavigationSplitViewBootcamp.swift */; };
 		AFE2E9602BDFF15F004B583D /* NativePopoverBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFE2E95F2BDFF15F004B583D /* NativePopoverBootcamp.swift */; };
 /* End PBXBuildFile section */
 
@@ -164,6 +165,7 @@
 		AFB8B75028E235CE008160AD /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
 		AFBA9DD928E1D9AD00F83FD0 /* IntroView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntroView.swift; sourceTree = "<group>"; };
 		AFBA9DDB28E1DC3400F83FD0 /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
+		AFE256352BE5344600257EA6 /* NavigationSplitViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationSplitViewBootcamp.swift; sourceTree = "<group>"; };
 		AFE2E95F2BDFF15F004B583D /* NativePopoverBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NativePopoverBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -270,6 +272,7 @@
 				AFE2E95F2BDFF15F004B583D /* NativePopoverBootcamp.swift */,
 				AFA7AC842BE1521B00726180 /* AnyLayoutBootcamp.swift */,
 				AFA7AC862BE1555E00726180 /* ViewThatFitsBootcamp.swift */,
+				AFE256352BE5344600257EA6 /* NavigationSplitViewBootcamp.swift */,
 				AF1D728628D659AA0016C585 /* Assets.xcassets */,
 				AF1D728828D659AA0016C585 /* Preview Content */,
 			);
@@ -432,6 +435,7 @@
 				AFB5B45828DDDD1000E480C1 /* PickerBootcamp.swift in Sources */,
 				AF21D2D22AA8CBFC00151C65 /* MenuBootcamp.swift in Sources */,
 				AF7EA29028DB424900A1C6A0 /* NavigationViewBootcamp.swift in Sources */,
+				AFE256362BE5344600257EA6 /* NavigationSplitViewBootcamp.swift in Sources */,
 				AF7EA29228DB47EF00A1C6A0 /* NavigationStack-iOS16.swift in Sources */,
 				AF085EEB28E3338600C91940 /* BadgesBootcamp.swift in Sources */,
 				AF82C3F128DF96B000327883 /* OnAppearBootcamp.swift in Sources */,
